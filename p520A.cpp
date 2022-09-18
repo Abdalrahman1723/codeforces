@@ -34,4 +34,4 @@ int main(void)
             cout << "NO";
     }
     return 0;
-}
+} 
